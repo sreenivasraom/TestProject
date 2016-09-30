@@ -1,0 +1,17 @@
+{
+    "projectName": "TestProject",
+    "username": "sree@qa1.com",
+    "id": "a2c624c0-8765-11e6-990f-1506edc78106",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap1.salesforce.com",
+    "workspace": "E:\\mm-workspace",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
